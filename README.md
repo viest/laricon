@@ -1,9 +1,5 @@
 # Identicon generator for Laravel
 
-> From the [yzalis/Identicon](https://github.com/yzalis/Identicon)
-
-
-
 **Laricon** is a library which generate an [identicon](http://en.wikipedia.org/wiki/Identicon) image based on a string.
 
 Here is some examples of awesome results!
@@ -93,3 +89,5 @@ That's it!
 ## License
 
 Identicon is released under the MIT License. See the bundled LICENSE file for details.
+
+> From the [yzalis/Identicon](https://github.com/yzalis/Identicon)
