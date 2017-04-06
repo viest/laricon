@@ -14,6 +14,12 @@ Here is some examples of awesome results!
 ![Identicon example #4](doc/8.8.4.4.png)&nbsp;&nbsp;
 ![Identicon example #5](doc/yzalis.png)
 
+## Installation
+
+```bash
+composer require vikin/laricon
+```
+
 ## Usage
 
 Images are generated in PNG format with transparent background.
