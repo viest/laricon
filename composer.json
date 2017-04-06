@@ -1,0 +1,21 @@
+{
+    "name": "vikin/laricon",
+    "description": "Generate awesome and unique identicons with beautiful colors",
+    "keywords": ["identicons", "laricon", "icon"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vikin",
+            "email": "vikindev@outlook.com"
+        }
+    ],
+    "require": {
+      "php": ">=5.5.9",
+    },
+    "minimum-stability" : "dev",
+    "autoload": {
+        "psr-4": {
+            "Vikin\\Laricon\\": "src/"
+        }
+    }
+}
